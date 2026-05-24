@@ -1,0 +1,13 @@
+{
+  "name": "rav",
+  "description": "Automates Swiss RAV admin via browser control — requires Playwright MCP. Handles job applications, monthly AvP forms, incapacity reporting, document uploads, and unemployment benefit applications on job-room.ch. Includes a severance/pension buy-in guide for tech layoffs.",
+  "version": "0.1.0",
+  "author": {
+    "name": "msolanas",
+    "url": "https://github.com/msolanas"
+  },
+  "homepage": "https://github.com/msolanas/swiss-rav",
+  "repository": "https://github.com/msolanas/swiss-rav",
+  "license": "MIT",
+  "keywords": ["switzerland", "rav", "job-room", "unemployment", "arbeitslos", "job-search"]
+}

@@ -1,0 +1,15 @@
+.DS_Store
+*.swp
+
+# Personal scratch and session artefacts — never publish
+/private/
+.playwright-mcp/
+.gstack/
+.antigravitycli/
+ruvector.db
+*.rvf
+*.rvf.lock
+node_modules/
+
+# Per-user config lives outside the repo at ~/.rav/ — listed here as a reminder
+.rav/

@@ -1,0 +1,23 @@
+{
+  "name": "swiss-rav",
+  "description": "Browser-automation plugin for Swiss job seekers. Handles work effort logging, monthly AvP forms, incapacity reporting, document uploads, and unemployment benefit applications on job-room.ch. Includes a pension buy-in guide for tech layoffs with high severance. Run /rav:setup once to configure for your canton and ALK.",
+  "owner": {
+    "name": "msolanas",
+    "url": "https://github.com/msolanas"
+  },
+  "plugins": [
+    {
+      "name": "rav",
+      "source": "./",
+      "description": "Automate your Swiss RAV obligations on job-room.ch — requires Playwright MCP.",
+      "category": "productivity",
+      "tags": [
+        "switzerland",
+        "rav",
+        "unemployment",
+        "job-search",
+        "browser-automation"
+      ]
+    }
+  ]
+}
